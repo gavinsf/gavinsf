@@ -7,7 +7,7 @@
 - Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
 - DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
 - Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
-
+<br>
 
 ### Projects I'm Currently Working On:
 - [Denwork](https://github.com/gavinsf/denwork): LLM orchestration program to coordinate multiple users using multiple LLMs.
