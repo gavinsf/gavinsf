@@ -1,4 +1,7 @@
 # Hello! I'm Gavin
+<p>I'm a recent graduate from UFV with a GPA of 3.8. Currently I'm working on web-based projects, but I enjoy learning topics from fields where code assists like computational neuroscience. Feel free to reach out anytime!<br></p>
+You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](www.linkedin.com/in/gavin-foster-29452b236)
+
 
 ### Skills:
 - Languages: Python, C/C++, SQL, Bash
@@ -13,6 +16,6 @@
 - [Denwork](https://github.com/gavinsf/denwork): LLM orchestration program to coordinate multiple users using multiple LLMs.
 - [Customer Service Bot](github.com/gavinsf/conversational-bot): Customer service bot used for helping customers solve issues and routes to live agent with full context if needed.
 - [AWS Cost Guardrail](github.com/gavinsf/aws-cost-monitoring-system): Serverless cost guardrail system used to alert and automatically remediate costly resources.
-
+<br>
 ### Completed Projects:
 - [Distributed Data Cleaning & OCR Pipeline](https://github.com/shardaishwak/MNIST-distributed/tree/main/cleaning): Cleaned and segmented 2100 NIST Pages into 462,585 labeled character images for downstream balancing and training.
