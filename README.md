@@ -3,7 +3,7 @@
 
 You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/gavin-foster-29452b236/)
 
-My resume is available on my [website](https://www.gavinsf.github.io).
+My resume is available on my website at [gavinsf.github.io](https://gavinsf.github.io)
 
 
 ### Skills:
