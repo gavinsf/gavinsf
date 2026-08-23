@@ -17,7 +17,8 @@ You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](https://www
 - [Denwork](https://github.com/gavinsf/denwork): LLM orchestration program to coordinate multiple users using multiple LLMs.
 - [Customer Service Bot](github.com/gavinsf/conversational-bot): Customer service bot used for helping customers solve issues and routes to live agent with full context if needed.
 - [AWS Cost Guardrail](github.com/gavinsf/aws-cost-monitoring-system): Serverless cost guardrail system used to alert and automatically remediate costly resources.
-<br>
+
+
 ### Completed Projects:
 - [E-commerce Website](https://github.com/gavinsf/ecommerce-website): A standard e-commerce website built with React and FastAPI with a Postgres DB. Can be deployed with docker and an EC2.
 - [Distributed Data Cleaning & OCR Pipeline](https://github.com/shardaishwak/MNIST-distributed/tree/main/cleaning): Cleaned and segmented 2100 NIST Pages into 462,585 labeled character images for downstream balancing and training.
