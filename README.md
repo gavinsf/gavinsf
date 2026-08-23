@@ -1,12 +1,12 @@
 # Hello! I'm Gavin
 
 ### Skills:
-#### Languages: Python, C/C++, SQL, Bash
-#### Frameworks: FastAPI, React
-#### DBs:  PostgreSQL, DynamoDB
-#### Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
-#### DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
-#### Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
+- Languages: Python, C/C++, SQL, Bash
+- Frameworks: FastAPI, React
+- DBs:  PostgreSQL, DynamoDB
+- Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
+- DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
+- Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
 
 
 ### Projects I'm Currently Working On:
