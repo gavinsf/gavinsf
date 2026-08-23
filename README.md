@@ -1,4 +1,18 @@
 # Hello! I'm Gavin
 
+### Skills:
+#### Languages: Python, C/C++, SQL, Bash
+#### Frameworks: FastAPI, React
+#### DBs:  PostgreSQL, DynamoDB
+#### Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
+#### DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
+#### Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
+
+
 ### Projects I'm Currently Working On:
-- [Denwork](https://github.com/gavinsf/denwork):
+- [Denwork](https://github.com/gavinsf/denwork): LLM orchestration program to coordinate multiple users using multiple LLMs.
+- [Customer Service Bot](github.com/gavinsf/conversational-bot): Customer service bot used for helping customers solve issues and routes to live agent with full context if needed.
+- [AWS Cost Guardrail](github.com/gavinsf/aws-cost-monitoring-system): Serverless cost guardrail system used to alert and automatically remediate costly resources.
+
+### Completed Projects:
+- [Distributed Data Cleaning & OCR Pipeline](https://github.com/shardaishwak/MNIST-distributed/tree/main/cleaning): Cleaned and segmented 2100 NIST Pages into 462,585 labeled character images for downstream balancing and training.
