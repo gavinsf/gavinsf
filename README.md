@@ -1,6 +1,6 @@
 # Hello! I'm Gavin
 <p>I'm a recent graduate from UFV with a GPA of 3.8. Currently I'm working on web-based projects, but I enjoy learning topics from fields where code assists like computational neuroscience. Feel free to reach out anytime!<br></p>
-You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](linkedin.com/in/gavin-foster-29452b236)
+You can contact me at: gsfoster031@gmail.com or add me on [linkedin](https://www.linkedin.com/in/gavin-foster-29452b236/)
 
 
 ### Skills:
