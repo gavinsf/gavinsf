@@ -5,6 +5,7 @@ You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](https://www
 
 My resume is available on my website at [gavinsf.github.io](https://gavinsf.github.io)
 
+<br>
 
 ### Skills:
 - Languages: Python, C/C++, SQL, Bash
