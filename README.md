@@ -11,7 +11,7 @@ You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](https://www
 - Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
 - DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
 - Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
-<br>
+
 <br>
 
 ### Projects I'm Currently Working On:
@@ -19,6 +19,7 @@ You can contact me at: gsfoster031@gmail.com or add me on [LinkedIn](https://www
 - [Customer Service Bot](github.com/gavinsf/conversational-bot): Customer service bot used for helping customers solve issues and routes to live agent with full context if needed.
 - [AWS Cost Guardrail](github.com/gavinsf/aws-cost-monitoring-system): Serverless cost guardrail system used to alert and automatically remediate costly resources.
 
+<br>
 
 ### Completed Projects:
 - [E-commerce Website](https://github.com/gavinsf/ecommerce-website): A standard e-commerce website built with React and FastAPI with a Postgres DB. Can be deployed with docker and an EC2.
