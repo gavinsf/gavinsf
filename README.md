@@ -8,7 +8,8 @@ My resume is available on my website at [gavinsf.github.io](https://gavinsf.gith
 <br>
 
 ### Skills:
-- Languages: Python, C/C++, SQL, Bash
+- Frontend:  Typescript, React, HTML, CSS
+- Backend: Python, C/C++, Bash, FastAPI
 - Frameworks: FastAPI, React
 - DBs:  PostgreSQL, DynamoDB
 - Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
