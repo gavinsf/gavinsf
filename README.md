@@ -13,7 +13,7 @@ My resume is available on my website at [gavinsf.github.io](https://gavinsf.gith
 - Frameworks: FastAPI, React
 - DBs:  PostgreSQL, DynamoDB
 - Cloud: AWS (EC2, Lambda, S3, IAM, Secrets Manager, Lex)
-- DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus
+- DevOps: Docker, Terraform, Git, GitHub Actions, Prometheus, Kubernetes (k3s)
 - Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
 
 <br>
