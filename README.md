@@ -1,5 +1,5 @@
 # Hello! I'm Gavin
-<p>I'm a recent graduate from UFV with a GPA of 3.8. Currently I'm working on web-based projects. Feel free to reach out anytime!</p>
+<p>I'm a recent graduate from UFV. Currently I'm working on web-based projects. Feel free to reach out anytime!</p>
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/gavin-foster-29452b236/)
 
@@ -16,10 +16,6 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/gavin-foster-29452b
 - Data Engineering: PySpark, FP-Growth, Pentaho, ETL, data cleaning
 
 <br>
-
-### Projects I'm Currently Working On:
-- [Customer Service Bot](https://github.com/gavinsf/conversational-bot): Customer service bot used for helping customers solve issues and routes to live agent with full context if needed.
-- [AWS Cost Guardrail](https://github.com/gavinsf/aws-cost-monitoring-system): Serverless cost guardrail system used to alert and automatically remediate costly resources.
 
 <br>
 
